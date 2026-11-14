@@ -18,25 +18,7 @@ Este repositorio contiene los resultados de una auditoría de seguridad realizad
 
 ## Evidencias
 
-Las siguientes capturas corresponden a los seis retos ejecutados:
-
-### Reto 1 - Inyección directa
-![Reto 1](evidencias/H01-inyeccion-directa.png)
-
-### Reto 2 - Inyección indirecta
-![Reto 2](evidencias/H02-inyeccion-indirecta.png)
-
-### Reto 3 - Robo de datos
-![Reto 3](evidencias/H03-robo-de-datos.png)
-
-### Reto 4 - Fuga del prompt
-![Reto 4](evidencias/H04-fuga-del-prompt.png)
-
-### Reto 5 - Abuso de herramientas
-![Reto 5](evidencias/H05-abuso-de-herramientas.png)
-
-### Reto 6 - Jailbreak por rol
-![Reto 6](evidencias/H06-jailbreak-por-rol.png)
+Las capturas de los seis retos se encuentran en la carpeta [evidencias](evidencias/).
 
 ## Casos de prueba
 

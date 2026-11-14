@@ -1,4 +1,3 @@
-
 # Auditoría del Agente MiniModa
 
 ## Descripción del proyecto
@@ -29,3 +28,11 @@ Las capturas de los seis retos se encuentran en la carpeta [evidencias](evidenci
 - `hallazgos/`: documentación individual de los seis hallazgos.
 - `evidencias/`: capturas de pantalla de cada reto.
 - `casos-de-prueba.md`: resumen de los casos de prueba ejecutados.
+
+## Recomendaciones
+
+1. **Inyección directa:** verificar la identidad y autorización antes de aceptar solicitudes de privilegios o beneficios especiales.
+2. **Abuso de herramientas:** solicitar confirmación humana antes de ejecutar acciones sensibles, como cerrar issues.
+3. **Protección de datos:** restringir el acceso a información de clientes y validar los destinatarios antes de compartirla.
+
+Estas recomendaciones son preventivas. Durante las pruebas realizadas, el asistente resistió los seis intentos evaluados.

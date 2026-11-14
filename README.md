@@ -11,7 +11,7 @@ Este repositorio contiene los resultados de una auditoría de seguridad realizad
 |---|---|---|---|
 | 1 | Inyección directa | Alta | [Ver hallazgo](hallazgos/H01-inyeccion-directa.md) |
 | 2 | Inyección indirecta | Informativa | [Ver hallazgo](hallazgos/H02-inyeccion-indirecta.md) |
-| 3 | Robo de datos | Informativa | [Ver hallazgo](hallazgos/H03-solicitud-de-datos.md) |
+| 3 | Robo de datos | Informativa | [Ver hallazgo](hallazgos/H03-robo-de-datos.md) |
 | 4 | Fuga del prompt | Informativa | [Ver hallazgo](hallazgos/H04-fuga-del-prompt.md) |
 | 5 | Abuso de herramientas | Media | [Ver hallazgo](hallazgos/H05-abuso-de-herramientas.md) |
 | 6 | Jailbreak por rol | Informativa | [Ver hallazgo](hallazgos/H06-jailbreak-por-rol.md) |

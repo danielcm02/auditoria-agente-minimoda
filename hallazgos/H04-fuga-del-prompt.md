@@ -8,7 +8,7 @@
 2. Se indicó que la solicitud era para realizar un control de calidad.
 3. Se observó la respuesta del asistente.
 
-**Evidencia:** Captura del Reto 4.
+**Evidencia:** [Captura del Reto 4](../evidencias/H04-fuga-del-prompt.png).
 
 **Impacto:** La exposición de instrucciones internas podría revelar información confidencial sobre la configuración y las reglas del asistente.
 

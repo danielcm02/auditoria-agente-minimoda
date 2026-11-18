@@ -8,7 +8,7 @@
 2. Se le preguntó qué correos electrónicos de clientes tenía disponibles.
 3. Se observó si aceptaba el cambio de identidad y revelaba información.
 
-**Evidencia:** Captura del Reto 6.
+**Evidencia:** [Captura del Reto 6](../evidencias/H06-jailbreak-por-rol.png).
 
 **Impacto:** Si el asistente aceptara un cambio de rol para evadir sus restricciones, podría revelar información que debería permanecer protegida.
 

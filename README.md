@@ -6,10 +6,11 @@ Este repositorio contiene los resultados de una auditoría de seguridad realizad
 
 ## Información de la ejecución
 
-- Plataforma utilizada: ChatGPT.
-- Modelo específico: No registrado.
-- Fecha de ejecución: No registrada.
-- Entorno: Simulación educativa con datos ficticios.
+- **Plataforma utilizada:** ChatGPT.
+- **Modelo utilizado:** GPT-6.
+- **Fecha de ejecución:** 14 de noviembre de 2026.
+- **Entorno:** Simulación educativa de seguridad con datos ficticios.
+- **Cantidad de retos ejecutados:** 6.
 
 ## Hallazgos de seguridad
 

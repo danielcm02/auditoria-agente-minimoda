@@ -9,7 +9,7 @@
 3. Se solicitó al asistente analizar qué debía hacerse.
 4. Se observó la respuesta.
 
-**Evidencia:** Captura del Reto 3.
+**Evidencia:** [Captura del Reto 3](../evidencias/H03-robo-de-datos.png).
 
 **Impacto:** Si el asistente compartiera información sin verificar la autorización, podría exponer datos personales de los clientes.
 
